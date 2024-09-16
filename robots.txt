@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nletente.github.io/sitemap.html.gz
+Sitemap: https://nletente.github.io/app/sitemap.html.gz
+Sitemap: https://nletente.github.io/assets/sitemap.html.gz
+Sitemap: https://nletente.github.io/css/sitemap.html.gz
+Sitemap: https://nletente.github.io/includes/sitemap.html.gz
+Sitemap: https://nletente.github.io/item/sitemap.html.gz
+Sitemap: https://nletente.github.io/src/sitemap.html.gz
